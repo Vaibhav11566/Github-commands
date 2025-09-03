@@ -179,3 +179,11 @@ git reflog show <branch_name>
 ```
 
 ![image](https://github.com/VaibhavDabral11/Github-commands/assets/116658648/263f571e-0881-4fff-95dd-5b96cc6326c2)
+
+## how to check the history of any branch 
+
+```@ruby
+git log branch_name  
+
+
+```
